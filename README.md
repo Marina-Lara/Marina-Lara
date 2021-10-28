@@ -2,7 +2,6 @@
 
 - 💙 Atualmente sou Estagiária em Engenharia de dados na iClinic
 - 🌱 Estou estudando Ciência de dados na PUC SP
-- 🔭 Gosto muito de música e de cozinhar
 
 
 <div>
