@@ -1,7 +1,7 @@
 ### Oii, eu sou a Marina!
 
 - 💙 Atualmente sou Estagiária em Engenharia de dados na iClinic
-- 🌱 Estou estudando Ciência de dados
+- 🌱 Estou estudando Ciência de dados na PUC SP
 
 <div>
   <a href="https://instagram.com/marinalara.mar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
