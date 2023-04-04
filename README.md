@@ -1,6 +1,6 @@
 ### Oii, eu sou a Marina!
 
-- 💙 Atualmente sou Estagiária em Engenharia de dados na iClinic
+- 💙 Atualmente sou Estagiária Ciência de Dados no MAgazine Luiza
 - 🌱 Estou estudando Ciência de dados na PUC SP
 
 
